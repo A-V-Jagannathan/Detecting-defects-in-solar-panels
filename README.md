@@ -5,8 +5,9 @@ This project aims to detect defective solar panels in a solar array,by performin
 - Defect: DHS(Dark Hot Spot)
 - Defect: BP (ByPass diode)
 - No defect: Normal
-- ![image](https://user-images.githubusercontent.com/98120916/221390107-29da58a9-06d4-4b33-af07-0c3db681901c.png)
-![image](https://user-images.githubusercontent.com/98120916/221390077-606dab51-498a-4d0b-9733-59d6d4834d47.png)
+![image](https://user-images.githubusercontent.com/98120916/221427037-22398ea1-101a-4012-ac72-55222ad2fd3a.png)
+![image](https://user-images.githubusercontent.com/98120916/221427058-19e6f925-02f0-4a9c-9da9-d27dfddb0dea.png)
+
 
 
 ## Data engineering
