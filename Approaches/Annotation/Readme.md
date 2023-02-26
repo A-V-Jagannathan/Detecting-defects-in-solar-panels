@@ -10,3 +10,4 @@ Possible solutions:
 
 ### Approach 2
 labelling the panels with defect with their respective defect, and labelling only 3-5 random normal panels per image/solar array.
+![image](https://user-images.githubusercontent.com/98120916/221427384-785cd5b5-b0ca-4aa0-8046-1eba48880513.png)
