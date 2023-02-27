@@ -1,4 +1,4 @@
-The notebook contains basically all the details about this project step by step.
+defectdetection.ipynb notebook contains the code and explains the models also.
 
 PanelSegmentation1.rar is the archive of Dataset 1
 
