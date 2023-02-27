@@ -1,3 +1,5 @@
+### Train-Val split
+is 85-15 in both the datasets. , 85 images are then augmented to 255 .
 ### Dataset 1
 labelling every normal panel as normal panel, and the ones with defect with their respective defect.
 ![image](https://user-images.githubusercontent.com/98120916/221427183-933e7ca8-f7d8-4df2-8b44-e169dd679664.png)
