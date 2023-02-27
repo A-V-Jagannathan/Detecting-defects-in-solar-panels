@@ -1,6 +1,6 @@
 # Detecting-defects-in-solar-panels
 ## Abstract
-This project aims to detect defective solar panels in a solar array,by performing semantic segmentation. The panels are then annotated into 
+This project aims to detect defective solar panels in a solar array,by performing semantic segmentation. The panels are then segmented into 
 - Defect: LHS(Light Hot Spot)
 - Defect: DHS(Dark Hot Spot)
 - Defect: BP (ByPass diode)
