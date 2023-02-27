@@ -1,7 +1,7 @@
 ### Train-Val split
 is 85-15 in both the datasets. , 85 images are then augmented to 255 .
 ### Dataset 1 
-Roboflow link: https://universe.roboflow.com/jagannathan-a-v-q5iyv/defect-in-solar-panels/dataset/6
+Roboflow link: https://universe.roboflow.com/jagans-space-1-oemst/panelsegmentation/dataset/5
 
 labelling every normal panel as normal panel, and the ones with defect with their respective defect.
 ![image](https://user-images.githubusercontent.com/98120916/221427183-933e7ca8-f7d8-4df2-8b44-e169dd679664.png)
@@ -17,7 +17,7 @@ Total of 100 files were annotated in set 1
 
 
 ### Dataset 2
-Roboflow link: https://universe.roboflow.com/jagans-space-1-oemst/panelsegmentation/dataset/5
+Roboflow link: https://universe.roboflow.com/jagannathan-a-v-q5iyv/defect-in-solar-panels/dataset/6
 
 labelling the panels with defect with their respective defect, and labelling only 3-5 random normal panels per image/solar array.
 ![image](https://user-images.githubusercontent.com/98120916/221427384-785cd5b5-b0ca-4aa0-8046-1eba48880513.png)
