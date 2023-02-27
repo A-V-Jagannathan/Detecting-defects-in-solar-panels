@@ -17,14 +17,10 @@ to combat this i took an image containing all 5 defects, changed each each class
 the pixel values were 2 and 4. They were stray pixels.
 
 So i changed all pixels with 
-
-values 2 and 4 to 0,
-
-values 3 to 2
-
-values 5 to 3 
-
-values 6 to 4
+- values 2 and 4 to 0,
+- values 3 to 2
+- values 5 to 3 
+- values 6 to 4
 
 ### iii)pixels with only class 0s were dropped/deleted
 ### iv)To make accessing and debugging easier, seperated masks and their images into 2 different folders and gave them readable names, using renaming and refiling.ipynb
