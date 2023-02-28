@@ -12,9 +12,9 @@ it all ended within 6 so in range [0,6] instead of [0,4]
 
 initially i changed pixels 5,6 to 0. but they were actually other class.(LHS and Normal)
 
-to combat this i took an image containing all 5 defects, changed each each class to 0 one by one and noted the values that didnt affect
+to combat this i took an image containing all 5 defects, changed each class to 0 one by one and noted the pixel values that did'nt affect the mask
 
-the pixel values were 2 and 4. They were stray pixels.
+the pixel values were 2 and 4. They were part of class 0.
 
 So i changed all pixels with 
 - values 2 and 4 to 0,
@@ -22,5 +22,5 @@ So i changed all pixels with
 - values 5 to 3 
 - values 6 to 4
 
-### iii)pixels with only class 0s were dropped/deleted
+### iii)pixels with only class 0s were dropped/deleted(images without panels)
 ### iv)To make accessing and debugging easier, seperated masks and their images into 2 different folders and gave them readable names, using renaming and refiling.ipynb
